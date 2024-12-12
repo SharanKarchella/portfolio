@@ -8,7 +8,7 @@ function Projects() {
       <Project link="https://movie-stream-movies.netlify.app/" title="Disney-Hotstar-Website" src="dh.png" target="_blank" />
       <Project link="https://my-portfolio-nextjs-tailwind.netlify.app/" title="Portfolio-Website" src="portfolio.png" target="_blank" />
       <Project link="https://car-website-react-js.netlify.app/" title="Car-Website" src="car.png" target="_blank" />
-      <Project link="https://github.com/SharanKarchella/car-website" title="Car-Website" src="car3.png" target="_blank" />
+      {/* <Project link="https://github.com/SharanKarchella/car-website" title="Car-Website" src="car3.png" target="_blank" /> */}
       <Project link="https://github.com/SharanKarchella/git-prof-finder" title="git-profile-finder" src="git.png" target="_blank" />
 
 
