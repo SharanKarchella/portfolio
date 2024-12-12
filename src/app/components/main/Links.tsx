@@ -1,4 +1,5 @@
 import React from "react";
+import { FaLinkedin } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
 import { FaSquareInstagram } from "react-icons/fa6";
 import { FaXTwitter } from "react-icons/fa6";
@@ -6,6 +7,10 @@ import { FaXTwitter } from "react-icons/fa6";
 function Links() {
   return (
     <div className="flex gap-4">
+
+      <a href="https://www.linkedin.com/in/sharan-karchella/recent-activity/all/">
+        <FaLinkedin size="48px" />
+      </a>
       <a href="https://github.com/SharanKarchella">
         <FaGithub size="48px" />
       </a>
