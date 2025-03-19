@@ -6,7 +6,7 @@ import { FaXTwitter } from "react-icons/fa6";
 
 function Links() {
   return (
-    <div className="flex gap-4 flex-col md:flex-row">
+    <div className="flex gap-4 flex-col md:flex-row w-full justify-center items-center">
 
       <a href="https://www.linkedin.com/in/sharan-karchella/recent-activity/all/">
         <FaLinkedin size="48px" />

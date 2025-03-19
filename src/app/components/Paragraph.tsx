@@ -1,8 +1,8 @@
 import React from 'react'
 
-function Paragraph(props:any) {
+function Paragraph({className, children}:any) {
   return (
-    <p>{props.children}</p>
+    <p className={className}>{children}</p>
   )
 }
 
